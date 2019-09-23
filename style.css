@@ -1,0 +1,118 @@
+body{
+    padding: 0;
+    margin:0px
+}
+
+.header1{
+    width: 100%;
+    background-color: rgb(90,90,90);
+    height: 25px;
+    padding:0s;
+    margin:0;
+    
+}
+
+.link{
+    position: relative;
+    text-align: center;
+    left: 40%;
+    color: white;
+    text-decoration: none;
+    padding-left: 100px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:0;
+    padding-bottom: 0%;   
+}
+
+.backgroundImage{
+    padding-top:0px;
+    width:100%;
+    height: 700px;
+    background-image: url("carBackground.jpg");
+    background-size:100% 1100px;
+    margin:0;
+}
+.imageText{
+    color: white;
+    position: relative;
+    left: 45%;
+    top:40%;
+    font-size: 80px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding:0px;
+    font-style: oblique;
+    font-synthesis: weight;
+    text-shadow: 2px 3px 5px rgb(158, 158, 158);
+}
+
+.imageTextSub{
+    color: white;
+    position: relative;
+    left: 47%;
+    top:27%;
+    font-size: 20px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding:0px;
+    font-style: oblique;
+    font-synthesis: weight;
+    text-shadow: 1.5px 1.5px 1px rgb(158, 158, 158);
+
+}
+
+.button1{
+    background-color:rgb(11, 136, 11);
+    position:absolute;
+    top: 55%;
+    left:47%;
+    width: 180px;
+    height: 40px;
+    color:white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    border-radius:12px;
+    border:none;
+    opacity: 0.7
+}
+
+.button1:hover{
+    background-color: rgb(7, 129, 7);
+}
+
+.backgroundImage2{
+    padding-top:0px;
+    width:100%;
+    height: 700px;
+    background-image: url("backgroundBMW.jpg");
+    background-size:100% 1100px;
+    margin:0;
+    
+
+
+}
+
+.intro{
+    color: white;
+    position: relative;
+    left: 45%;
+    top:35%;
+    font-size: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding:0px;
+    font-style: oblique;
+    font-synthesis: weight;
+    text-shadow: 2px 3px 20px rgb(158, 158, 158);
+    
+
+}
+
+.bmwBack3{
+    background-image: url("bmw3S.jpg");
+    width: 30%;
+    padding-top:100px;
+    height: 300px
+}
+
+.bmwBack3:hover{
+   transform: scale(1.01);
+
+}
